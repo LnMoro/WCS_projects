@@ -18,4 +18,4 @@ visualisations
 
 # Binder
 
-[vers Binder] (https://gesis.mybinder.org/binder/v2/gh/LnMoro/WCS_projects/027f9f56478dafdde665d4e316652074f885f32b)
+[vers Binder](https://gesis.mybinder.org/binder/v2/gh/LnMoro/WCS_projects/027f9f56478dafdde665d4e316652074f885f32b)
