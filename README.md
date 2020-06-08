@@ -15,3 +15,6 @@ Analyse (exploration et visualisation) de l'évolution de la température contin
 
 ## Projet3 : système de recommandations de films et informations statistiques sur les films
 visualisations
+
+#Binder
+https://gesis.mybinder.org/binder/v2/gh/LnMoro/WCS_projects/027f9f56478dafdde665d4e316652074f885f32b
