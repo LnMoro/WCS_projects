@@ -1,6 +1,10 @@
 # WCS_projects
 Projets d'étude réalisés durant ma formation en data analyse à la Wilde Code School
 
+## Travaux_pratiques
+Exercices réalisés en autonomie durant la formation sur la plateforme Odyssey
+Classement par thème
+
 ## Projet 2 : le changement climatique
 Etude des données sur le changement climatique: recueil, exploration, visualisations
 
